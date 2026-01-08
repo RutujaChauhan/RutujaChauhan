@@ -61,6 +61,9 @@ Created and maintained dashboards and reports using Power BI and Google Data Stu
 </p>
 
 <p algin="center">
+    <a href="https://www.credly.com/earner/earned/badge/6ceee2ef-9f4f-4ac5-bc57-91b083bd4598" target="_blank">
+        <img src="images/GCP-PDE.png" alt="" height="50" hspace="20">
+    </a>
     <a href="https://www.credential.net/6dbf66fe-f409-4b0c-ae08-4e9fa94df219#gs.2s9kwd" target="_blank">
         <img src="images/GCP-ACE.png" alt="" height="50" hspace="20">
     </a>
